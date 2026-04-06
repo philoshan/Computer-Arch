@@ -1,5 +1,5 @@
 // This repository contains assignments for the Computer Architecture course
-// at Hanyang University ERICA, created by Alex Han.
+// at Hanyang University ERICA, created by Jiseung Han.
 `timescale 1ns / 1ps
 module alu (
     input  wire [31:0] src_a,      // operand A
